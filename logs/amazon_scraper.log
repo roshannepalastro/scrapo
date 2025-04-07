@@ -1,0 +1,297 @@
+2025-04-06 21:50:48,380 [INFO] amazon_scraper.main:22: Starting Amazon Scraper
+2025-04-06 21:50:48,381 [INFO] amazon_scraper.base:36: Initialized scraper for domain: www.amazon.in
+2025-04-06 21:50:48,382 [INFO] amazon_scraper.amazon:25: AmazonInScraper initialized
+2025-04-06 21:50:48,383 [INFO] amazon_scraper.amazon:34: Starting to fetch trending products from Amazon.in
+2025-04-06 21:50:48,383 [INFO] amazon_scraper.amazon:38: Attempting to fetch trending products from page: /gp/bestsellers/
+2025-04-06 21:50:48,384 [INFO] amazon_scraper.base:51: Fetching page: https://www.amazon.in/gp/bestsellers/
+2025-04-06 21:50:49,835 [INFO] amazon_scraper.base:57: Successfully fetched page: https://www.amazon.in/gp/bestsellers/ (Status: 200)
+2025-04-06 21:50:49,961 [DEBUG] amazon_scraper.amazon:57: Successfully parsed page with BeautifulSoup
+2025-04-06 21:50:49,982 [INFO] amazon_scraper.amazon:65: Found 72 potential product items
+2025-04-06 21:50:50,001 [DEBUG] amazon_scraper.amazon:163: Extracted product: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel (Rank: 1)
+2025-04-06 21:50:50,017 [DEBUG] amazon_scraper.amazon:163: Extracted product: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel (Rank: 2)
+2025-04-06 21:50:50,034 [DEBUG] amazon_scraper.amazon:163: Extracted product: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent (Rank: 3)
+2025-04-06 21:50:50,050 [DEBUG] amazon_scraper.amazon:163: Extracted product: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent (Rank: 4)
+2025-04-06 21:50:50,066 [DEBUG] amazon_scraper.amazon:163: Extracted product: Plantex Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf with Magic Stickers - Pack of 1 (Black, Powder Coated) (Rank: 5)
+2025-04-06 21:50:50,083 [DEBUG] amazon_scraper.amazon:163: Extracted product: Plantex Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf with Magic Stickers - Pack of 1 (Black, Powder Coated) (Rank: 6)
+2025-04-06 21:50:50,099 [DEBUG] amazon_scraper.amazon:163: Extracted product: rts Universal Travel Adapter, International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger (Black) (Rank: 7)
+2025-04-06 21:50:50,116 [DEBUG] amazon_scraper.amazon:163: Extracted product: rts Universal Travel Adapter, International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger (Black) (Rank: 8)
+2025-04-06 21:50:50,132 [DEBUG] amazon_scraper.amazon:163: Extracted product: Portronics Power Plate 10 Extension Board with 4 Universal Sockets, 3 Meter Long Cord, 1500 Watts, 6 Amp Multi Plug for Office & Home Appliances (Black) (Rank: 9)
+2025-04-06 21:50:50,149 [DEBUG] amazon_scraper.amazon:163: Extracted product: Portronics Power Plate 10 Extension Board with 4 Universal Sockets, 3 Meter Long Cord, 1500 Watts, 6 Amp Multi Plug for Office & Home Appliances (Black) (Rank: 10)
+2025-04-06 21:50:50,165 [DEBUG] amazon_scraper.amazon:163: Extracted product: Scotch-Brite 2-in-1 Bucket Spin Mop (Green, 2 Refills), 4 Pcs (Rank: 11)
+2025-04-06 21:50:50,182 [DEBUG] amazon_scraper.amazon:163: Extracted product: Scotch-Brite 2-in-1 Bucket Spin Mop (Green, 2 Refills), 4 Pcs (Rank: 12)
+2025-04-06 21:50:50,199 [DEBUG] amazon_scraper.amazon:163: Extracted product: SOFTSPUN Microfiber Cloth - 4 pcs - 40x40 cms - 340 GSM Grey! Thick Lint & Streak-Free Multipurpose Cloths - Automotive Microfibre Towels for Car Bike Cleaning Polishing Washing & Detailing. (Rank: 13)
+2025-04-06 21:50:50,217 [DEBUG] amazon_scraper.amazon:163: Extracted product: SOFTSPUN Microfiber Cloth - 4 pcs - 40x40 cms - 340 GSM Grey! Thick Lint & Streak-Free Multipurpose Cloths - Automotive Microfibre Towels for Car Bike Cleaning Polishing Washing & Detailing. (Rank: 14)
+2025-04-06 21:50:50,234 [DEBUG] amazon_scraper.amazon:163: Extracted product: Godrej aer O – Hanging Car Air Freshener – Assorted Pack of 3 (22.5g) | Gel Lasts up to 30 days | Car Accessories (Rank: 15)
+2025-04-06 21:50:50,252 [DEBUG] amazon_scraper.amazon:163: Extracted product: Godrej aer O – Hanging Car Air Freshener – Assorted Pack of 3 (22.5g) | Gel Lasts up to 30 days | Car Accessories (Rank: 16)
+2025-04-06 21:50:50,268 [DEBUG] amazon_scraper.amazon:163: Extracted product: Boldfit Arm Sleeves for Men & Women UV Protection Hand Sleeves (Rank: 17)
+2025-04-06 21:50:50,285 [DEBUG] amazon_scraper.amazon:163: Extracted product: Boldfit Arm Sleeves for Men & Women UV Protection Hand Sleeves (Rank: 18)
+2025-04-06 21:50:50,303 [DEBUG] amazon_scraper.amazon:163: Extracted product: Jopasu Car Duster (Rank: 19)
+2025-04-06 21:50:50,320 [DEBUG] amazon_scraper.amazon:163: Extracted product: Jopasu Car Duster (Rank: 20)
+2025-04-06 21:50:50,321 [INFO] amazon_scraper.amazon:168: Extracted 20 products from /gp/bestsellers/
+2025-04-06 21:50:50,321 [INFO] amazon_scraper.amazon:42: Successfully found 20 trending products on /gp/bestsellers/
+2025-04-06 21:50:50,325 [INFO] amazon_scraper.repository:56: Saved 20 products to c:\Users\97798\environ\amazon_scraper\data\amazon_in_trending_20250406_215050.json
+2025-04-06 21:50:50,325 [INFO] amazon_scraper.processor:29: ProductAnalyzer initialized
+2025-04-06 21:50:50,326 [INFO] amazon_scraper.processor:120: Starting product analysisfor amazon_in
+2025-04-06 21:50:50,327 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:50,351 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:50,384 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:50,389 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:50,389 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:50,395 [DEBUG] amazon_scraper.processor:155: Completed price analysis
+2025-04-06 21:50:50,398 [DEBUG] amazon_scraper.processor:165: Completed rating analysis
+2025-04-06 21:50:50,398 [DEBUG] amazon_scraper.processor:176: Completed review count analysis
+2025-04-06 21:50:50,401 [DEBUG] amazon_scraper.processor:184: Completed category analysis
+2025-04-06 21:50:50,402 [DEBUG] amazon_scraper.processor:197: Generated price range recommendations
+2025-04-06 21:50:50,420 [INFO] amazon_scraper.processor:236: Completed product analysis with 9 result categories
+2025-04-06 21:50:50,421 [INFO] amazon_scraper.processor:323: Generated 5 insights from analysis results
+2025-04-06 21:50:50,422 [INFO] amazon_scraper.main:44: Analysis based on 20 products from amazon_in.
+2025-04-06 21:50:50,423 [INFO] amazon_scraper.main:44: Average product price is ₹nan.
+2025-04-06 21:50:50,423 [INFO] amazon_scraper.main:44: Average product rating is nan/5.0 stars.
+2025-04-06 21:50:50,424 [INFO] amazon_scraper.main:44: Most products fall in the 0-2 ★ rating range.
+2025-04-06 21:50:50,426 [INFO] amazon_scraper.main:44: Products average nan reviews each.
+2025-04-06 21:50:50,428 [INFO] amazon_scraper.visualizer:43: ProductVisualizer initialized
+2025-04-06 21:50:50,428 [INFO] amazon_scraper.visualizer:500: Generating all charts for site: amazon_in
+2025-04-06 21:50:50,429 [INFO] amazon_scraper.visualizer:59: Creating price distribution chart
+2025-04-06 21:50:50,430 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:50,432 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:50,437 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:50,440 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:50,440 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:50,441 [WARNING] amazon_scraper.visualizer:70: Not enough price data for distribution chart
+2025-04-06 21:50:50,442 [INFO] amazon_scraper.visualizer:115: Creating rating distribution chart
+2025-04-06 21:50:50,443 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:50,446 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:50,451 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:50,453 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:50,453 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:52,038 [INFO] amazon_scraper.visualizer:149: Saved rating distribution chart to c:\Users\97798\environ\amazon_scraper\data\charts\rating_distribution_amazon_in.png
+2025-04-06 21:50:52,052 [INFO] amazon_scraper.visualizer:169: Creating price vs. rating scatter plot
+2025-04-06 21:50:52,052 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:52,056 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:52,061 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:52,063 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:52,063 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:52,067 [WARNING] amazon_scraper.visualizer:180: Not enough data points for scatter plot
+2025-04-06 21:50:52,068 [INFO] amazon_scraper.visualizer:254: Creating category analysis chart
+2025-04-06 21:50:52,068 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:52,071 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:52,078 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:52,080 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:52,080 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:52,082 [WARNING] amazon_scraper.visualizer:265: Not enough different categories for analysis chart
+2025-04-06 21:50:52,083 [INFO] amazon_scraper.visualizer:319: Creating price by category box plot
+2025-04-06 21:50:52,084 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:52,087 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:52,092 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:52,095 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:52,096 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:52,099 [WARNING] amazon_scraper.visualizer:330: Not enough data points for box plot
+2025-04-06 21:50:52,099 [INFO] amazon_scraper.visualizer:384: Creating comprehensive dashboard
+2025-04-06 21:50:52,100 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 21:50:52,103 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 0 products
+2025-04-06 21:50:52,109 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 21:50:52,113 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 21:50:52,113 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 21:50:54,760 [INFO] amazon_scraper.visualizer:483: Saved dashboard to c:\Users\97798\environ\amazon_scraper\data\charts\dashboard_amazon_in.png
+2025-04-06 21:50:54,762 [INFO] amazon_scraper.visualizer:529: Generated 2 charts
+2025-04-06 21:50:54,763 [INFO] amazon_scraper.main:50: Scraping and analysis completed successfully
+2025-04-06 22:19:12,864 [INFO] amazon_scraper.main:22: Starting Amazon Scraper
+2025-04-06 22:19:12,865 [INFO] amazon_scraper.base:36: Initialized scraper for domain: www.amazon.in
+2025-04-06 22:19:12,865 [INFO] amazon_scraper.amazon:25: AmazonInScraper initialized
+2025-04-06 22:19:12,866 [INFO] amazon_scraper.amazon:34: Starting to fetch trending products from Amazon.in
+2025-04-06 22:19:12,866 [INFO] amazon_scraper.amazon:38: Attempting to fetch trending products from page: /gp/bestsellers/
+2025-04-06 22:19:12,867 [INFO] amazon_scraper.base:51: Fetching page: https://www.amazon.in/gp/bestsellers/
+2025-04-06 22:19:14,517 [INFO] amazon_scraper.base:57: Successfully fetched page: https://www.amazon.in/gp/bestsellers/ (Status: 200)
+2025-04-06 22:19:14,698 [DEBUG] amazon_scraper.amazon:57: Successfully parsed page with BeautifulSoup
+2025-04-06 22:19:14,722 [INFO] amazon_scraper.amazon:65: Found 72 potential product items
+2025-04-06 22:19:14,754 [DEBUG] amazon_scraper.amazon:197: Extracted product: Credit Card Bill (Rank: 1)
+2025-04-06 22:19:14,775 [DEBUG] amazon_scraper.amazon:197: Extracted product: Credit Card Bill (Rank: 2)
+2025-04-06 22:19:14,797 [DEBUG] amazon_scraper.amazon:197: Extracted product: Safari Polypropylene Pentagon Hardside Medium Size Check-in Spinner Luggage Suitcase Trolley Bags for Travel Black Color, 66Cm (Rank: 3)
+2025-04-06 22:19:14,826 [DEBUG] amazon_scraper.amazon:197: Extracted product: Safari Polypropylene Pentagon Hardside Medium Size Check-in Spinner Luggage Suitcase Trolley Bags for Travel Black Color, 66Cm (Rank: 4)
+2025-04-06 22:19:14,847 [DEBUG] amazon_scraper.amazon:197: Extracted product: Boldfit Shoe Bag for Travel & Storage Organizer - Accessories for Women & Men - Shoe Pouches and Cover for Travelling Essentials (Rank: 5)
+2025-04-06 22:19:14,870 [DEBUG] amazon_scraper.amazon:197: Extracted product: Boldfit Shoe Bag for Travel & Storage Organizer - Accessories for Women & Men - Shoe Pouches and Cover for Travelling Essentials (Rank: 6)
+2025-04-06 22:19:14,890 [DEBUG] amazon_scraper.amazon:197: Extracted product: Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Grey) (Rank: 7)
+2025-04-06 22:19:14,909 [DEBUG] amazon_scraper.amazon:197: Extracted product: Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Grey) (Rank: 8)
+2025-04-06 22:19:14,927 [DEBUG] amazon_scraper.amazon:197: Extracted product: Safari Thorium Neo 8 Wheels 66 Cm Medium Check-in Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags for Travel, Suitcase for Travel, Graphite Blue (Rank: 9)
+2025-04-06 22:19:14,947 [DEBUG] amazon_scraper.amazon:197: Extracted product: Safari Thorium Neo 8 Wheels 66 Cm Medium Check-in Trolley Bag Hard Case Polycarbonate 360 Degree Wheeling System Luggage, Trolley Bags for Travel, Suitcase for Travel, Graphite Blue (Rank: 10)
+2025-04-06 22:19:14,965 [DEBUG] amazon_scraper.amazon:197: Extracted product: GLUN® Electronic Portable Digital LED Screen Luggage Weighing Scale, 50 kg/110 Lb For Multi-Purpose Use. (Rank: 11)
+2025-04-06 22:19:14,983 [DEBUG] amazon_scraper.amazon:197: Extracted product: GLUN® Electronic Portable Digital LED Screen Luggage Weighing Scale, 50 kg/110 Lb For Multi-Purpose Use. (Rank: 12)
+2025-04-06 22:19:15,002 [DEBUG] amazon_scraper.amazon:197: Extracted product: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel (Rank: 13)
+2025-04-06 22:19:15,022 [DEBUG] amazon_scraper.amazon:197: Extracted product: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel (Rank: 14)
+2025-04-06 22:19:15,046 [DEBUG] amazon_scraper.amazon:197: Extracted product: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent (Rank: 15)
+2025-04-06 22:19:15,070 [DEBUG] amazon_scraper.amazon:197: Extracted product: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent (Rank: 16)
+2025-04-06 22:19:15,091 [DEBUG] amazon_scraper.amazon:197: Extracted product: Plantex Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf with Magic Stickers - Pack of 1 (Black, Powder Coated) (Rank: 17)
+2025-04-06 22:19:15,112 [DEBUG] amazon_scraper.amazon:197: Extracted product: Plantex Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf with Magic Stickers - Pack of 1 (Black, Powder Coated) (Rank: 18)
+2025-04-06 22:19:15,133 [DEBUG] amazon_scraper.amazon:197: Extracted product: rts Universal Travel Adapter, International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger (Black) (Rank: 19)
+2025-04-06 22:19:15,155 [DEBUG] amazon_scraper.amazon:197: Extracted product: rts Universal Travel Adapter, International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger (Black) (Rank: 20)
+2025-04-06 22:19:15,155 [INFO] amazon_scraper.amazon:202: Extracted 20 products from /gp/bestsellers/
+2025-04-06 22:19:15,155 [INFO] amazon_scraper.amazon:42: Successfully found 20 trending products on /gp/bestsellers/
+2025-04-06 22:19:15,159 [INFO] amazon_scraper.repository:56: Saved 20 products to c:\Users\97798\environ\amazon_scraper\data\amazon_in_trending_20250406_221915.json
+2025-04-06 22:19:15,159 [INFO] amazon_scraper.processor:29: ProductAnalyzer initialized
+2025-04-06 22:19:15,159 [INFO] amazon_scraper.processor:120: Starting product analysisfor amazon_in
+2025-04-06 22:19:15,160 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:15,184 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:15,215 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:15,218 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:15,218 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:15,228 [DEBUG] amazon_scraper.processor:155: Completed price analysis
+2025-04-06 22:19:15,230 [DEBUG] amazon_scraper.processor:165: Completed rating analysis
+2025-04-06 22:19:15,231 [DEBUG] amazon_scraper.processor:176: Completed review count analysis
+2025-04-06 22:19:15,234 [DEBUG] amazon_scraper.processor:184: Completed category analysis
+2025-04-06 22:19:15,236 [DEBUG] amazon_scraper.processor:197: Generated price range recommendations
+2025-04-06 22:19:15,267 [INFO] amazon_scraper.processor:236: Completed product analysis with 9 result categories
+2025-04-06 22:19:15,268 [INFO] amazon_scraper.processor:323: Generated 8 insights from analysis results
+2025-04-06 22:19:15,268 [INFO] amazon_scraper.main:44: Analysis based on 20 products from amazon_in.
+2025-04-06 22:19:15,269 [INFO] amazon_scraper.main:44: Average product price is ₹660.40.
+2025-04-06 22:19:15,270 [INFO] amazon_scraper.main:44: Price range spans ₹10.00 to ₹2699.00.
+2025-04-06 22:19:15,270 [INFO] amazon_scraper.main:44: Average product rating is 4.1/5.0 stars.
+2025-04-06 22:19:15,271 [INFO] amazon_scraper.main:44: Most products fall in the 4-5 ★ rating range.
+2025-04-06 22:19:15,272 [INFO] amazon_scraper.main:44: Products average nan reviews each.
+2025-04-06 22:19:15,272 [INFO] amazon_scraper.main:44: Best value for money: 'Credit Card Bill' with a 4.4 rating.
+2025-04-06 22:19:15,273 [INFO] amazon_scraper.main:44: Recommended mid-range products fall between ₹199.00 and ₹588.00.
+2025-04-06 22:19:15,274 [INFO] amazon_scraper.visualizer:43: ProductVisualizer initialized
+2025-04-06 22:19:15,275 [INFO] amazon_scraper.visualizer:503: Generating all charts for site: amazon_in
+2025-04-06 22:19:15,277 [INFO] amazon_scraper.visualizer:59: Creating price distribution chart
+2025-04-06 22:19:15,277 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:15,282 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:15,286 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:15,288 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:15,288 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:16,773 [INFO] amazon_scraper.visualizer:95: Saved price distribution chart to c:\Users\97798\environ\amazon_scraper\data\charts\price_distribution_amazon_in.png
+2025-04-06 22:19:16,783 [INFO] amazon_scraper.visualizer:115: Creating rating distribution chart
+2025-04-06 22:19:16,784 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:16,788 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:16,791 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:16,793 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:16,794 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:17,469 [INFO] amazon_scraper.visualizer:150: Saved rating distribution chart to c:\Users\97798\environ\amazon_scraper\data\charts\rating_distribution_amazon_in.png
+2025-04-06 22:19:17,471 [INFO] amazon_scraper.visualizer:170: Creating price vs. rating scatter plot
+2025-04-06 22:19:17,473 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:17,476 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:17,479 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:17,482 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:17,483 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:18,275 [INFO] amazon_scraper.visualizer:235: Saved price-rating scatter plot to c:\Users\97798\environ\amazon_scraper\data\charts\price_rating_scatter_amazon_in.png
+2025-04-06 22:19:18,276 [INFO] amazon_scraper.visualizer:255: Creating category analysis chart
+2025-04-06 22:19:18,282 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:18,286 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:18,289 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:18,291 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:18,291 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:18,293 [WARNING] amazon_scraper.visualizer:266: Not enough different categories for analysis chart
+2025-04-06 22:19:18,294 [INFO] amazon_scraper.visualizer:320: Creating price by category box plot
+2025-04-06 22:19:18,295 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:18,299 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:18,302 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:18,305 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:18,305 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:18,308 [WARNING] amazon_scraper.visualizer:331: Not enough data points for box plot
+2025-04-06 22:19:18,308 [INFO] amazon_scraper.visualizer:385: Creating comprehensive dashboard
+2025-04-06 22:19:18,308 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-06 22:19:18,311 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-06 22:19:18,315 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-06 22:19:18,318 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-06 22:19:18,318 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-06 22:19:22,540 [INFO] amazon_scraper.visualizer:486: Saved dashboard to c:\Users\97798\environ\amazon_scraper\data\charts\dashboard_amazon_in.png
+2025-04-06 22:19:22,542 [INFO] amazon_scraper.visualizer:532: Generated 4 charts
+2025-04-06 22:19:22,542 [INFO] amazon_scraper.main:50: Scraping and analysis completed successfully
+2025-04-07 08:22:09,557 [INFO] amazon_scraper.main:23: Starting Amazon Scraper
+2025-04-07 08:22:09,558 [INFO] amazon_scraper.base:36: Initialized scraper for domain: www.amazon.in
+2025-04-07 08:22:09,559 [INFO] amazon_scraper.amazon:25: AmazonInScraper initialized
+2025-04-07 08:22:09,559 [INFO] amazon_scraper.amazon:34: Starting to fetch trending products from Amazon.in
+2025-04-07 08:22:09,560 [INFO] amazon_scraper.amazon:38: Attempting to fetch trending products from page: /gp/bestsellers/
+2025-04-07 08:22:09,560 [INFO] amazon_scraper.base:51: Fetching page: https://www.amazon.in/gp/bestsellers/
+2025-04-07 08:22:11,233 [INFO] amazon_scraper.base:57: Successfully fetched page: https://www.amazon.in/gp/bestsellers/ (Status: 200)
+2025-04-07 08:22:11,359 [DEBUG] amazon_scraper.amazon:57: Successfully parsed page with BeautifulSoup
+2025-04-07 08:22:11,381 [INFO] amazon_scraper.amazon:65: Found 72 potential product items
+2025-04-07 08:22:11,403 [DEBUG] amazon_scraper.amazon:197: Extracted product: Classic Mosquito Net for Double Bed | King Size Foldable Machardani | Polyester 30GSM Strong Net | PVC Coated Corrosion Resistant Steel Wire - Blue (Rank: 1)
+2025-04-07 08:22:11,421 [DEBUG] amazon_scraper.amazon:197: Extracted product: Classic Mosquito Net for Double Bed | King Size Foldable Machardani | Polyester 30GSM Strong Net | PVC Coated Corrosion Resistant Steel Wire - Blue (Rank: 2)
+2025-04-07 08:22:11,440 [DEBUG] amazon_scraper.amazon:197: Extracted product: HIT Anti Mosquito Racquet | 6 months Warranty | Rechargeable Mosquito Killer Bat with LED Light | Charge Before Use (Rank: 3)
+2025-04-07 08:22:11,459 [DEBUG] amazon_scraper.amazon:197: Extracted product: HIT Anti Mosquito Racquet | 6 months Warranty | Rechargeable Mosquito Killer Bat with LED Light | Charge Before Use (Rank: 4)
+2025-04-07 08:22:11,476 [DEBUG] amazon_scraper.amazon:197: Extracted product: WEIRD WOLF 2 in 1 UV Light Mosquito Bat Racket Electric Fly Swatter with Base Stand, Lithium Battery, USB Type-C Charging, Warranty, Peach/Black (Rank: 5)
+2025-04-07 08:22:11,494 [DEBUG] amazon_scraper.amazon:197: Extracted product: WEIRD WOLF 2 in 1 UV Light Mosquito Bat Racket Electric Fly Swatter with Base Stand, Lithium Battery, USB Type-C Charging, Warranty, Peach/Black (Rank: 6)
+2025-04-07 08:22:11,511 [DEBUG] amazon_scraper.amazon:197: Extracted product: Hit Flying Insect Killer - Mosquito & Fly Killer Spray (700Ml) | Instant Kill | Protection From Dengue & Malaria, Pack Of 1 (Rank: 7)
+2025-04-07 08:22:11,529 [DEBUG] amazon_scraper.amazon:197: Extracted product: Hit Flying Insect Killer - Mosquito & Fly Killer Spray (700Ml) | Instant Kill | Protection From Dengue & Malaria, Pack Of 1 (Rank: 8)
+2025-04-07 08:22:11,547 [DEBUG] amazon_scraper.amazon:197: Extracted product: LifeKrafts Polyester Magnetic Mosquito Net for Door | Mosquito Curtain for All Door Types & Sizes | Auto-Closing Insect Screen to Keep Mosquito Out (200x100 cm, Brown) (Rank: 9)
+2025-04-07 08:22:11,567 [DEBUG] amazon_scraper.amazon:197: Extracted product: LifeKrafts Polyester Magnetic Mosquito Net for Door | Mosquito Curtain for All Door Types & Sizes | Auto-Closing Insect Screen to Keep Mosquito Out (200x100 cm, Brown) (Rank: 10)
+2025-04-07 08:22:11,586 [DEBUG] amazon_scraper.amazon:197: Extracted product: Lifekrafts Standard Size Window Mosquito Net (Size-90x120cms/36x47 Inches/2.95x3.94 Feet, Color-Grey) 120 GSM Stitched Fiberglass Net with Strong Hook & Loop Adhesive Tape (Rank: 11)
+2025-04-07 08:22:11,609 [DEBUG] amazon_scraper.amazon:197: Extracted product: Lifekrafts Standard Size Window Mosquito Net (Size-90x120cms/36x47 Inches/2.95x3.94 Feet, Color-Grey) 120 GSM Stitched Fiberglass Net with Strong Hook & Loop Adhesive Tape (Rank: 12)
+2025-04-07 08:22:11,628 [DEBUG] amazon_scraper.amazon:197: Extracted product: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel (Rank: 13)
+2025-04-07 08:22:11,647 [DEBUG] amazon_scraper.amazon:197: Extracted product: Zulaxy Photo Frame Hooks for Wall Without Drilling, 10 Pack Self Adhesive Hooks for Wall Heavy Duty Strong Nail Free for Hanging Photo Frame (Hanging Hook, Transparent) Stainless Steel (Rank: 14)
+2025-04-07 08:22:11,666 [DEBUG] amazon_scraper.amazon:197: Extracted product: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent (Rank: 15)
+2025-04-07 08:22:11,685 [DEBUG] amazon_scraper.amazon:197: Extracted product: Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent (Rank: 16)
+2025-04-07 08:22:11,704 [DEBUG] amazon_scraper.amazon:197: Extracted product: Plantex Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf with Magic Stickers - Pack of 1 (Black, Powder Coated) (Rank: 17)
+2025-04-07 08:22:11,723 [DEBUG] amazon_scraper.amazon:197: Extracted product: Plantex Self Adhesive Bathroom Shelf for Wall/Shelf Organizer/Kitchen Shelf with Magic Stickers - Pack of 1 (Black, Powder Coated) (Rank: 18)
+2025-04-07 08:22:11,742 [DEBUG] amazon_scraper.amazon:197: Extracted product: rts Universal Travel Adapter, International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger (Black) (Rank: 19)
+2025-04-07 08:22:11,761 [DEBUG] amazon_scraper.amazon:197: Extracted product: rts Universal Travel Adapter, International All in One Worldwide Travel Adapter and Wall Charger with USB Ports with Multi Type Power Outlet USB 2.1A,100-250 Voltage Travel Charger (Black) (Rank: 20)
+2025-04-07 08:22:11,762 [INFO] amazon_scraper.amazon:202: Extracted 20 products from /gp/bestsellers/
+2025-04-07 08:22:11,762 [INFO] amazon_scraper.amazon:42: Successfully found 20 trending products on /gp/bestsellers/
+2025-04-07 08:22:11,766 [INFO] amazon_scraper.repository:56: Saved 20 products to C:\Users\97798\environ\amazon_scraper\data\amazon_in_trending_20250407_082211.json
+2025-04-07 08:22:11,767 [INFO] amazon_scraper.processor:29: ProductAnalyzer initialized
+2025-04-07 08:22:11,768 [INFO] amazon_scraper.processor:120: Starting product analysisfor amazon_in
+2025-04-07 08:22:11,768 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:11,782 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:11,804 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:11,806 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:11,806 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:11,811 [DEBUG] amazon_scraper.processor:155: Completed price analysis
+2025-04-07 08:22:11,814 [DEBUG] amazon_scraper.processor:165: Completed rating analysis
+2025-04-07 08:22:11,815 [DEBUG] amazon_scraper.processor:176: Completed review count analysis
+2025-04-07 08:22:11,818 [DEBUG] amazon_scraper.processor:184: Completed category analysis
+2025-04-07 08:22:11,820 [DEBUG] amazon_scraper.processor:197: Generated price range recommendations
+2025-04-07 08:22:11,845 [INFO] amazon_scraper.processor:236: Completed product analysis with 9 result categories
+2025-04-07 08:22:11,846 [INFO] amazon_scraper.processor:323: Generated 8 insights from analysis results
+2025-04-07 08:22:11,846 [INFO] amazon_scraper.main:45: Analysis based on 20 products from amazon_in.
+2025-04-07 08:22:11,847 [INFO] amazon_scraper.main:45: Average product price is ₹512.70.
+2025-04-07 08:22:11,847 [INFO] amazon_scraper.main:45: Price range spans ₹189.00 to ₹996.00.
+2025-04-07 08:22:11,848 [INFO] amazon_scraper.main:45: Average product rating is 4.2/5.0 stars.
+2025-04-07 08:22:11,849 [INFO] amazon_scraper.main:45: Most products fall in the 4-5 ★ rating range.
+2025-04-07 08:22:11,850 [INFO] amazon_scraper.main:45: Products average nan reviews each.
+2025-04-07 08:22:11,850 [INFO] amazon_scraper.main:45: Best value for money: 'Hit Flying Insect Killer - Mosquito & Fly Killer Spray (700Ml) | Instant Kill | Protection From Dengue & Malaria, Pack Of 1' with a 4.3 rating.
+2025-04-07 08:22:11,851 [INFO] amazon_scraper.main:45: Recommended mid-range products fall between ₹298.00 and ₹666.00.
+2025-04-07 08:22:11,852 [INFO] amazon_scraper.visualizer:43: ProductVisualizer initialized
+2025-04-07 08:22:11,853 [INFO] amazon_scraper.visualizer:503: Generating all charts for site: amazon_in
+2025-04-07 08:22:11,854 [INFO] amazon_scraper.visualizer:59: Creating price distribution chart
+2025-04-07 08:22:11,854 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:11,856 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:11,860 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:11,862 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:11,862 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:13,917 [INFO] amazon_scraper.visualizer:95: Saved price distribution chart to C:\Users\97798\environ\amazon_scraper\data\charts\price_distribution_amazon_in.png
+2025-04-07 08:22:13,919 [INFO] amazon_scraper.visualizer:115: Creating rating distribution chart
+2025-04-07 08:22:13,920 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:13,923 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:13,926 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:13,928 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:13,928 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:14,543 [INFO] amazon_scraper.visualizer:150: Saved rating distribution chart to C:\Users\97798\environ\amazon_scraper\data\charts\rating_distribution_amazon_in.png
+2025-04-07 08:22:14,544 [INFO] amazon_scraper.visualizer:170: Creating price vs. rating scatter plot
+2025-04-07 08:22:14,545 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:14,548 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:14,551 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:14,553 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:14,553 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:15,412 [INFO] amazon_scraper.visualizer:235: Saved price-rating scatter plot to C:\Users\97798\environ\amazon_scraper\data\charts\price_rating_scatter_amazon_in.png
+2025-04-07 08:22:15,413 [INFO] amazon_scraper.visualizer:255: Creating category analysis chart
+2025-04-07 08:22:15,414 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:15,416 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:15,420 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:15,422 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:15,423 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:15,424 [WARNING] amazon_scraper.visualizer:266: Not enough different categories for analysis chart
+2025-04-07 08:22:15,425 [INFO] amazon_scraper.visualizer:320: Creating price by category box plot
+2025-04-07 08:22:15,425 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:15,429 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:15,432 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:15,434 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:15,435 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:15,438 [WARNING] amazon_scraper.visualizer:331: Not enough data points for box plot
+2025-04-07 08:22:15,439 [INFO] amazon_scraper.visualizer:385: Creating comprehensive dashboard
+2025-04-07 08:22:15,440 [INFO] amazon_scraper.processor:61: Preparing product DataFrame for analysis
+2025-04-07 08:22:15,443 [DEBUG] amazon_scraper.processor:73: Extracted numeric prices for 20 products
+2025-04-07 08:22:15,445 [DEBUG] amazon_scraper.processor:92: Created rating groups
+2025-04-07 08:22:15,447 [DEBUG] amazon_scraper.processor:103: Processed review counts
+2025-04-07 08:22:15,448 [INFO] amazon_scraper.processor:105: DataFrame prepared with 20 products and 16 columns
+2025-04-07 08:22:18,609 [INFO] amazon_scraper.visualizer:486: Saved dashboard to C:\Users\97798\environ\amazon_scraper\data\charts\dashboard_amazon_in.png
+2025-04-07 08:22:18,610 [INFO] amazon_scraper.visualizer:532: Generated 4 charts
+2025-04-07 08:22:18,612 [INFO] amazon_scraper.main:51: Scraping and analysis completed successfully
